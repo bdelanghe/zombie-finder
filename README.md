@@ -1,4 +1,4 @@
-# 🧟‍♂️ Zombie_Finder: Your Real-World Zombie Survival Challenge 🌍🔦
+# 🧟‍♂️ Zombie Finder: Your Real-World Zombie Survival Challenge 🌍🔦
 
 ---
 
